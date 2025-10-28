@@ -14,7 +14,10 @@ pip install -r requirements.txt
 
 #### 功能一：图片方向自动矫正
 
-- 命令行运行 `python image_rotation_corrector.py`
+```bash
+python image_rotation_corrector.py
+```
+
 - 矫正后的图片保存在 `output/` 文件夹
 - 需要人工检查的图片在 `output/manual_check/` 文件夹
 
